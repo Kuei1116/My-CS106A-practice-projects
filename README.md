@@ -16,4 +16,4 @@ The fifth project, demonstrating how to learn to decomposition codes to fill pot
 6.*[Steeplechase](https://github.com/Kuei1116/My-CS106A-practice-projects/blob/main/My%20CS106A%20practice%20projects/Steeplechase.py)*\
 The sixth project, demonstrating how to learn to decomposition codes in the advance situaction.\
 7.*[DoubleBeepers](https://github.com/Kuei1116/My-CS106A-practice-projects/blob/main/My%20CS106A%20practice%20projects/DoubleBeepers.py)*\
-The seventh project, demonstrating how to learn to decomposition codes and move Karel to double beepers.\
+The seventh project, demonstrating how to learn to decomposition codes and move Karel to double beepers.
