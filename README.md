@@ -12,8 +12,8 @@ The third project, demonstrating how to learn to use Karel conditions and while 
 4.*[BeeperRowAdv](https://github.com/Kuei1116/My-CS106A-practice-projects/blob/main/My%20CS106A%20practice%20projects/BeeperRowAdv.py)*\
 The fourth project, demonstrating how to learn to use if and else code on advance BeeperRow project.\
 5.*[PotholeFilling](https://github.com/Kuei1116/My-CS106A-practice-projects/blob/main/My%20CS106A%20practice%20projects/PotholeFilling.py)*\
-The fifth project, demonstrating how to learn to decomposition codes to fill potholes.\
+The fifth project, demonstrating how to learn to decompose codes to fill potholes.\
 6.*[Steeplechase](https://github.com/Kuei1116/My-CS106A-practice-projects/blob/main/My%20CS106A%20practice%20projects/Steeplechase.py)*\
-The sixth project, demonstrating how to learn to decomposition codes in the advance situation.\
+The sixth project, demonstrating how to learn to decompose codes in the advance situation.\
 7.*[DoubleBeepers](https://github.com/Kuei1116/My-CS106A-practice-projects/blob/main/My%20CS106A%20practice%20projects/DoubleBeepers.py)*\
 The seventh project, demonstrating how to learn to decompose codes and move Karel to double beepers.
